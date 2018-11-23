@@ -1,6 +1,5 @@
 //Program to find a baseball player's batting average.
 //Display batting average to 3 decimal places.
-
 //-------------------------------------------------------------------------------------------
 
 #include <iostream>
